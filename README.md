@@ -279,4 +279,4 @@ For technical support or questions:
 
 ---
 
-**Built with ❤️ for HealGain by [Your Development Team]**
+**Built with ❤️ for HealGain by @ZTech-Inc**
